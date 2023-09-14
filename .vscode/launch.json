@@ -1,14 +1,14 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "msedge",
-            "request": "launch",
-            "name": "Open character-ent.html",
-            "file": "h:\\My Drive\\GoIT\\Week1\\test-hw2\\html-css-module-1-9-12\\table\\character-ent.html"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Open text-markup.html",
+      "file": "h:\\My Drive\\GoIT\\Week1\\test-hw2\\html-css-module-1-9-12\\table\\text-markup.html"
+    }
+  ]
 }
